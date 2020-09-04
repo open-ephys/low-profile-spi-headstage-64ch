@@ -1,6 +1,6 @@
 # Low-profile SPI Headstage with 64 ephys channels
 
-![DeviceFront](pics/top.jpg)
+![DeviceTop](pics/top.JPG)
 
 ## BOM
 
