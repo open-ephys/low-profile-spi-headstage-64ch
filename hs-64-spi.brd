@@ -1190,7 +1190,7 @@ by exp-lbrs.ulp</description>
 <attribute name="MPN" value="ERJ-3EKFxxxxV" x="-4.0844" y="3.946" size="1.778" layer="27" display="off"/>
 <attribute name="NAME" x="-4.617125" y="2.162" size="0.8128" layer="25" font="vector" ratio="19"/>
 </element>
-<element name="C7" library="jonnew" package="0402" value="1u" x="-2.9816" y="-0.008" smashed="yes" rot="R90">
+<element name="C7" library="jonnew" package="0402" value="4.7u" x="-2.9816" y="-0.008" smashed="yes" rot="R90">
 <attribute name="NAME" x="-3.6784" y="-2.0618" size="0.8128" layer="25" font="vector" ratio="19"/>
 </element>
 <element name="GND" library="RHD2000_eval_board" package="TESTPOINT_SMALL" value="TESTPOINT_SMALL" x="-5.0292" y="5.842" smashed="yes">

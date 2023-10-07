@@ -3598,7 +3598,7 @@ by exp-lbrs.ulp</description>
 <part name="SUPPLY10" library="jonnew" deviceset="AGND" device=""/>
 <part name="R1" library="jonnew" deviceset="R" device="_0603" value="DNP"/>
 <part name="SUPPLY11" library="jonnew" deviceset="AGND" device=""/>
-<part name="C7" library="jonnew" deviceset="C" device="_0402" value="1u"/>
+<part name="C7" library="jonnew" deviceset="C" device="_0402" value="4.7u"/>
 <part name="FRAME1" library="frames" deviceset="A3L-LOC" device=""/>
 <part name="GND" library="RHD2000_eval_board" deviceset="TESTPOINT" device="_SMALL"/>
 <part name="REF" library="RHD2000_eval_board" deviceset="TESTPOINT" device="_SMALL"/>
