@@ -1221,9 +1221,6 @@ by exp-lbrs.ulp</description>
 </element>
 </elements>
 <signals>
-<signal name="LED-2">
-<contactref element="J1" pad="35"/>
-</signal>
 <signal name="VCOAX">
 <contactref element="J1" pad="36"/>
 <contactref element="J1" pad="M3"/>
@@ -2246,9 +2243,6 @@ by exp-lbrs.ulp</description>
 <contactref element="U1" pad="A9"/>
 <wire x1="0" y1="-0.585" x2="0" y2="-2" width="0.09" layer="16"/>
 </signal>
-<signal name="LED-1">
-<contactref element="J1" pad="34"/>
-</signal>
 <signal name="REF">
 <contactref element="J1" pad="69"/>
 <contactref element="U1" pad="M1"/>
@@ -2653,9 +2647,6 @@ by exp-lbrs.ulp</description>
 <wire x1="-6.1596" y1="-5.2704" x2="-3.75" y2="-7.68" width="0.09" layer="3"/>
 <wire x1="-6.1596" y1="-4.7116" x2="-6.3824" y2="-4.7116" width="0.09" layer="16"/>
 <wire x1="-6.3824" y1="-4.7116" x2="-6.9216" y2="-4.1724" width="0.09" layer="16"/>
-</signal>
-<signal name="ISTIM">
-<contactref element="J1" pad="1"/>
 </signal>
 <signal name="RESV(VCCIO)">
 </signal>

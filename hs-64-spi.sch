@@ -3615,6 +3615,7 @@ by exp-lbrs.ulp</description>
 <sheets>
 <sheet>
 <plain>
+<text x="307.34" y="12.7" size="2.54" layer="94">PCB v1.1</text>
 </plain>
 <instances>
 <instance part="J1" gate="G$1" x="134.62" y="205.74" smashed="yes"/>
@@ -3778,22 +3779,12 @@ by exp-lbrs.ulp</description>
 <busses>
 </busses>
 <nets>
-<net name="LED-2" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="35"/>
-<wire x1="177.8" y1="198.12" x2="177.8" y2="193.04" width="0.1524" layer="91"/>
-<label x="177.8" y="193.04" size="1.27" layer="95" rot="R270" xref="yes"/>
-</segment>
-</net>
 <net name="VCOAX" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="36"/>
 <wire x1="177.8" y1="213.36" x2="177.8" y2="215.9" width="0.1524" layer="91"/>
-<label x="177.8" y="218.44" size="1.27" layer="95" rot="R90" xref="yes"/>
-<wire x1="177.8" y1="215.9" x2="177.8" y2="218.44" width="0.1524" layer="91"/>
 <wire x1="177.8" y1="215.9" x2="187.96" y2="215.9" width="0.1524" layer="91"/>
 <wire x1="187.96" y1="215.9" x2="187.96" y2="208.28" width="0.1524" layer="91"/>
-<junction x="177.8" y="215.9"/>
 <pinref part="J1" gate="G$1" pin="M3"/>
 <wire x1="187.96" y1="208.28" x2="185.42" y2="208.28" width="0.1524" layer="91"/>
 </segment>
@@ -4566,13 +4557,6 @@ by exp-lbrs.ulp</description>
 <pinref part="J1" gate="G$1" pin="18"/>
 </segment>
 </net>
-<net name="LED-1" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="34"/>
-<wire x1="175.26" y1="193.04" x2="175.26" y2="198.12" width="0.1524" layer="91"/>
-<label x="175.26" y="193.04" size="1.27" layer="95" rot="R270" xref="yes"/>
-</segment>
-</net>
 <net name="REF" class="0">
 <segment>
 <pinref part="J1" gate="G$1" pin="69"/>
@@ -4875,13 +4859,6 @@ by exp-lbrs.ulp</description>
 <pinref part="U1" gate="A" pin="AUXOUT"/>
 <pinref part="TP2" gate="G$1" pin="TP"/>
 <wire x1="185.42" y1="121.92" x2="185.42" y2="114.3" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="ISTIM" class="0">
-<segment>
-<pinref part="J1" gate="G$1" pin="1"/>
-<wire x1="91.44" y1="198.12" x2="91.44" y2="193.04" width="0.1524" layer="91"/>
-<label x="91.44" y="193.04" size="1.27" layer="95" rot="R270" xref="yes"/>
 </segment>
 </net>
 <net name="ZOUT" class="0">
