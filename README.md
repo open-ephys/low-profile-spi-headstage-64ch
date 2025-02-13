@@ -2,10 +2,6 @@
 
 ![DeviceTop](pics/top.JPG)
 
-## BOM
-
-BOM can be found on [here][1].
-
 ## Accelerometer orientation
 ![LP_headstage_top_accelerometer_v1 00](https://github.com/open-ephys/low-profile-spi-headstage-64ch/assets/16124331/50ab8c7b-6f8c-4c76-9bfe-2a3a62fef6ed)
 
